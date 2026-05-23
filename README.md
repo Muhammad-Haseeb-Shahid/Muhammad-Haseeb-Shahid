@@ -177,7 +177,7 @@
 |:---:|:---|
 | 🏗️ **Building** | C++ Game Projects |
 | 📚 **Learning** | Object Oriented Programming |
-| 🔍 **Exploring** | Frontend Web Development |
+| 🔍 **Exploring** | App & Game Development |
 | 🎯 **Goal** | Software Engineering Internship |
 | 💬 **Ask me** | C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; OOP |
 
