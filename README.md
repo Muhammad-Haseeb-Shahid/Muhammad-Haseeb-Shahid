@@ -96,11 +96,11 @@
 
 <br/><br/>
 
-![C](https://img.shields.io/badge/C-Expert-0d1117?style=flat&logo=c&logoColor=58a6ff)
+![C](https://img.shields.io/badge/C-Intermediate-0d1117?style=flat&logo=c&logoColor=58a6ff)
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
 ![HTML](https://img.shields.io/badge/HTML-Proficient-0d1117?style=flat&logo=html5&logoColor=58a6ff)
 ![CSS](https://img.shields.io/badge/CSS-Proficient-0d1117?style=flat&logo=css3&logoColor=58a6ff)
-![OOP](https://img.shields.io/badge/OOP-Learning-0d1117?style=flat&logo=buffer&logoColor=58a6ff)
+![OOP](https://img.shields.io/badge/OOP-Intermediate-0d1117?style=flat&logo=buffer&logoColor=58a6ff)
 
 </div>
 
