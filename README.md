@@ -38,7 +38,7 @@
 | 🎓 **University** | FAST NUCES, Islamabad |
 | 📍 **Location** | Islamabad, Pakistan |
 | 🔭 **Currently Building** | Game projects using C++ |
-| 🌱 **Learning** | OOP & Web Development |
+| 🌱 **Learning** | OOP & App Development |
 | 💡 **Interests** | Game Development · Frontend · Problem Solving |
 | 🎯 **Goal** | Software Engineering Internship |
 | 💬 **Ask me about** | C · C++ · HTML · CSS · OOP |
