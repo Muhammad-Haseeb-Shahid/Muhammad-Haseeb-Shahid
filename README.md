@@ -90,16 +90,16 @@
 <br/><br/>
 
 ![Profile](https://img.shields.io/badge/Profile-Muhammad--Haseeb--Shahid-58a6ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)
-![University](https://img.shields.io/badge/FAST_NUCES-Islamabad-58a6ff?style=flat&logo=graduation-cap&logoColor=white&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-C%2B%2B_%26_App_&_Game_Dev-58a6ff?style=flat&logo=cplusplus&logoColor=white&labelColor=0d1117)
-![Open To](https://img.shields.io/badge/Open_To-Internships-58a6ff?style=flat&logo=briefcase&logoColor=white&labelColor=0d1117)
+![University](https://img.shields.io/badge/FAST_NUCES-Islamabad-58a6ff?style=flat&logo=googlescholar&logoColor=white&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-C%2B%2B_%26_Web_Dev-58a6ff?style=flat&logo=cplusplus&logoColor=white&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/Open_To-Internships-58a6ff?style=flat&logo=handshake&logoColor=white&labelColor=0d1117)
 
 <br/><br/>
 
 ![C](https://img.shields.io/badge/C-Intermediate-0d1117?style=flat&logo=c&logoColor=58a6ff)
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
 ![HTML](https://img.shields.io/badge/HTML-Proficient-0d1117?style=flat&logo=html5&logoColor=58a6ff)
-![CSS](https://img.shields.io/badge/CSS-Proficient-0d1117?style=flat&logo=css3&logoColor=58a6ff)
+![CSS](https://img.shields.io/badge/CSS-Proficient-0d1117?style=flat&logo=csswizardry&logoColor=58a6ff)
 ![OOP](https://img.shields.io/badge/OOP-Intermediate-0d1117?style=flat&logo=buffer&logoColor=58a6ff)
 
 </div>
@@ -197,7 +197,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/muhammad-haseeb-shahid-0a0a5521b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-haseeb-shahid-0a0a5521b/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:1haseebshahid1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Haseeb-Shahid)
 
