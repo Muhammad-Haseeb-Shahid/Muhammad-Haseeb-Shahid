@@ -91,7 +91,7 @@
 
 ![Profile](https://img.shields.io/badge/Profile-Muhammad--Haseeb--Shahid-58a6ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)
 ![University](https://img.shields.io/badge/FAST_NUCES-Islamabad-58a6ff?style=flat&logo=graduation-cap&logoColor=white&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-C%2B%2B_%26_Web_Dev-58a6ff?style=flat&logo=cplusplus&logoColor=white&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-C%2B%2B_%26_App_&_Game_Dev-58a6ff?style=flat&logo=cplusplus&logoColor=white&labelColor=0d1117)
 ![Open To](https://img.shields.io/badge/Open_To-Internships-58a6ff?style=flat&logo=briefcase&logoColor=white&labelColor=0d1117)
 
 <br/><br/>
