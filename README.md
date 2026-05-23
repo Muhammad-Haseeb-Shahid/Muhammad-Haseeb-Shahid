@@ -126,7 +126,7 @@
 
 <h3>🎮 Metal Slug Game</h3>
 
-> A terminal-based recreation of the classic Metal Slug arcade game, built in C++ using Object Oriented Programming — classes, inheritance, and polymorphism.
+> A terminal-based recreation of the classic Metal Slug arcade game, built in C++ using Object Oriented Programming; classes, inheritance, and polymorphism.
 
 <br/>
 
@@ -143,7 +143,7 @@
 
 <h3>🎮 TumblePop Game</h3>
 
-> A C++ console game inspired by TumblePop, built using procedural programming — focused on game loops, collision logic, and clean structured code flow.
+> A C++ console game inspired by TumblePop, built using procedural programming; focused on game loops, collision logic, and clean structured code flow.
 
 <br/>
 
