@@ -1,19 +1,19 @@
 <!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                 HERO SECTION                -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--           HERO SECTION             -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B" alt="Name Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+M.+Haseeb+Shahid+%F0%9F%91%8B" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=BS+Computer+Science+%40+%5BYour+University%5D;Full+Stack+Developer+in+Progress;Open+Source+Enthusiast;Problem+Solver+%7C+Builder+%7C+Learner;Always+learning%2C+always+building." alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;C+%2F+C%2B%2B+Programmer;Web+Development+Enthusiast;Learning+OOP+%26+Frontend+Dev;Always+learning%2C+always+building." alt="Roles" />
 
 <br/>
 
-> *Building things that matter, one commit at a time.*
+> *Building my skills one project at a time.*
 
 <br/>
 
@@ -21,9 +21,11 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                 ABOUT ME                    -->
-<!-- ═══════════════════════════════════════════ -->
+<br/>
+
+<!-- ═══════════════════════════════════ -->
+<!--            ABOUT ME                -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
@@ -36,13 +38,13 @@
 <td width="55%" valign="top">
 
 ```text
-🎓  BS Computer Science @ [University]
-📍  [City, Country]
-🔭  Building: [Your current project]
-🌱  Learning: DSA, System Design
-💡  Exploring: Full Stack + AI/ML
-🎯  Goal: Software Internship 2025
-⚡  Fun fact: Still debugging line 47
+🎓  BS Computer Science @ [YOUR UNIVERSITY]
+📍  [YOUR CITY], Pakistan
+🔭  Currently: Building my first web project
+🌱  Learning: OOP & Web Development
+💡  Interested in: C/C++ & Frontend Dev
+🎯  Goal: Software Engineering Internship
+⚡  Fun fact: My code works, I just don't know why
 ```
 
 </td>
@@ -50,11 +52,11 @@
 
 ```text
 Skill Confidence:
-→ Python     ████████░░  80%
-→ JavaScript ███████░░░  70%
+→ C          ███████░░░  70%
 → C++        ██████░░░░  60%
-→ HTML/CSS   █████████░  85%
-→ SQL        ███████░░░  65%
+→ HTML       █████████░  85%
+→ CSS        ████████░░  75%
+→ OOP        ███████░░░  65%
 ```
 
 </td>
@@ -63,9 +65,9 @@ Skill Confidence:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                TECH STACK                   -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--           TECH STACK               -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
@@ -73,35 +75,25 @@ Skill Confidence:
 
 ## 🛠️ Tech Stack
 
+<br/>
+
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=dark" />
 
 <br/><br/>
 
-**Frontend**
+**Tools & Editors**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
-
-<br/><br/>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgresql,firebase&theme=dark" />
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--               GITHUB STATS                  -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--          GITHUB STATS              -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
@@ -114,40 +106,40 @@ Skill Confidence:
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb-Shahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Haseeb-Shahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%"/>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Haseeb-Shahid&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="70%"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Haseeb-Shahid&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Haseeb-Shahid&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--             FEATURED PROJECTS               -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--        PROJECTS IN PROGRESS        -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 </div>
 
@@ -155,28 +147,23 @@ Skill Confidence:
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 [Project One](https://github.com/YOUR_USERNAME/project-one)
-> Short, punchy description of what this does and why it matters.
+### 🔷 Web Project *(Coming Soon)*
+> A frontend web project currently under development using HTML & CSS. Will be pushed to GitHub soon.
 
-![Tech](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=58a6ff)
-![Tech](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=58a6ff)
-![Tech](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=58a6ff)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=58a6ff)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=58a6ff)
 
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/project-one)
-[![Demo](https://img.shields.io/badge/Live_Demo-0d1117?style=flat&logo=vercel&logoColor=white)](https://demo-link.com)
+![Status](https://img.shields.io/badge/Status-In_Progress-ff6b6b?style=flat)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 [Project Two](https://github.com/YOUR_USERNAME/project-two)
-> What problem does this solve? What's the core feature? One line only.
+### 🔷 C++ Console App *(Coming Soon)*
+> An object-oriented C++ application applying core OOP concepts. Repository will be live shortly.
 
-![Tech](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=58a6ff)
-![Tech](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=58a6ff)
-![Tech](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
 
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/project-two)
-[![Demo](https://img.shields.io/badge/Live_Demo-0d1117?style=flat&logo=vercel&logoColor=white)](https://demo-link.com)
+![Status](https://img.shields.io/badge/Status-In_Progress-ff6b6b?style=flat)
 
 </td>
 </tr>
@@ -184,9 +171,9 @@ Skill Confidence:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              CURRENT FOCUS                  -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--          CURRENT FOCUS             -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
@@ -199,42 +186,42 @@ Skill Confidence:
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                    CURRENT STATUS                        ║
-╠══════════════════════════════════════════════════════════╣
-║  🏗️  Building   →  [Your Current Project Name]          ║
-║  📚  Learning   →  Data Structures & System Design      ║
-║  🔍  Exploring  →  Machine Learning Fundamentals        ║
-║  🎯  Goal       →  Software Engineering Internship      ║
-║  💬  Ask me     →  Python • Web Dev • Git • Problem Solving ║
-╚══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                     CURRENT STATUS                        ║
+╠═══════════════════════════════════════════════════════════╣
+║  🏗️  Building   →  My first web project (HTML & CSS)     ║
+║  📚  Learning   →  Object Oriented Programming (C++)      ║
+║  🔍  Exploring  →  Frontend Web Development               ║
+║  🎯  Goal       →  Software Engineering Internship        ║
+║  💬  Ask me     →  C, C++, HTML, CSS, OOP concepts        ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SNAKE CONTRIBUTION GRAPH          -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--        SNAKE CONTRIBUTION          -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Haseeb-Shahid/Muhammad-Haseeb-Shahid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Haseeb-Shahid/Muhammad-Haseeb-Shahid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muhammad-Haseeb-Shahid/Muhammad-Haseeb-Shahid/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              CONNECT WITH ME                -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!--         CONNECT WITH ME            -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
@@ -244,18 +231,17 @@ Skill Confidence:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL-HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Haseeb-Shahid)
 
 <br/>
 
-*Open to internship opportunities · Collaborations welcome · Always learning*
+*Open to internship opportunities · Always learning · Let's build something together*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Haseeb-Shahid&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
