@@ -85,18 +85,22 @@
 
 <br/>
 
-<a href="https://github.com/Muhammad-Haseeb-Shahid">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb-Shahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=3600" height="175" alt="stats"/>
-</a>
-<a href="https://github.com/Muhammad-Haseeb-Shahid">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Haseeb-Shahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=3600" height="175" alt="languages"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Muhammad-Haseeb-Shahid&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" width="60%"/>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Haseeb-Shahid&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" height="175" alt="streak"/>
-</a>
+![Profile](https://img.shields.io/badge/Profile-Muhammad--Haseeb--Shahid-58a6ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)
+![University](https://img.shields.io/badge/FAST_NUCES-Islamabad-58a6ff?style=flat&logo=graduation-cap&logoColor=white&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-C%2B%2B_%26_Web_Dev-58a6ff?style=flat&logo=cplusplus&logoColor=white&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/Open_To-Internships-58a6ff?style=flat&logo=briefcase&logoColor=white&labelColor=0d1117)
+
+<br/><br/>
+
+![C](https://img.shields.io/badge/C-Expert-0d1117?style=flat&logo=c&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
+![HTML](https://img.shields.io/badge/HTML-Proficient-0d1117?style=flat&logo=html5&logoColor=58a6ff)
+![CSS](https://img.shields.io/badge/CSS-Proficient-0d1117?style=flat&logo=css3&logoColor=58a6ff)
+![OOP](https://img.shields.io/badge/OOP-Learning-0d1117?style=flat&logo=buffer&logoColor=58a6ff)
 
 </div>
 
@@ -167,21 +171,15 @@
 
 ## 🎯 Current Focus
 
-</div>
+<br/>
 
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                      CURRENT STATUS                        ║
-╠════════════════════════════════════════════════════════════╣
-║  🏗️  Building    →  C++ Game Projects                     ║
-║  📚  Learning    →  Object Oriented Programming            ║
-║  🔍  Exploring   →  Frontend Web Development               ║
-║  🎯  Goal        →  Software Engineering Internship        ║
-║  💬  Ask me      →  C · C++ · HTML · CSS · OOP            ║
-╚════════════════════════════════════════════════════════════╝
-```
+| Category | Details |
+|:---:|:---|
+| 🏗️ **Building** | C++ Game Projects |
+| 📚 **Learning** | Object Oriented Programming |
+| 🔍 **Exploring** | Frontend Web Development |
+| 🎯 **Goal** | Software Engineering Internship |
+| 💬 **Ask me** | C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; OOP |
 
 </div>
 
