@@ -85,13 +85,18 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb-Shahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Haseeb-Shahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="180"/>
+<a href="https://github.com/Muhammad-Haseeb-Shahid">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb-Shahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=3600" height="175" alt="stats"/>
+</a>
+<a href="https://github.com/Muhammad-Haseeb-Shahid">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Haseeb-Shahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=3600" height="175" alt="languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Haseeb-Shahid&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" height="180"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Haseeb-Shahid&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" height="175" alt="streak"/>
+</a>
 
 </div>
 
@@ -117,13 +122,13 @@
 
 <h3>🎮 Metal Slug Game</h3>
 
-> A terminal-based recreation of the classic Metal Slug arcade game, built entirely in C++ using Object Oriented Programming principles — classes, inheritance, and polymorphism.
+> A terminal-based recreation of the classic Metal Slug arcade game, built in C++ using Object Oriented Programming — classes, inheritance, and polymorphism.
 
 <br/>
 
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
 ![OOP](https://img.shields.io/badge/OOP-0d1117?style=flat&logo=buffer&logoColor=58a6ff)
-![Game Dev](https://img.shields.io/badge/Game_Dev-0d1117?style=flat&logo=unity&logoColor=58a6ff)
+![Game Dev](https://img.shields.io/badge/Game_Dev-0d1117?style=flat&logo=unrealengine&logoColor=58a6ff)
 
 <br/>
 
@@ -134,13 +139,13 @@
 
 <h3>🎮 TumblePop Game</h3>
 
-> A C++ console game inspired by TumblePop, built using procedural programming. Focuses on clean logic, game loops, collision handling, and structured code flow.
+> A C++ console game inspired by TumblePop, built using procedural programming — focused on game loops, collision logic, and clean structured code flow.
 
 <br/>
 
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
 ![Procedural](https://img.shields.io/badge/Procedural-0d1117?style=flat&logo=buffer&logoColor=58a6ff)
-![Game Dev](https://img.shields.io/badge/Game_Dev-0d1117?style=flat&logo=unity&logoColor=58a6ff)
+![Game Dev](https://img.shields.io/badge/Game_Dev-0d1117?style=flat&logo=unrealengine&logoColor=58a6ff)
 
 <br/>
 
@@ -177,26 +182,6 @@
 ║  💬  Ask me      →  C · C++ · HTML · CSS · OOP            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════ -->
-<!--        SNAKE CONTRIBUTION          -->
-<!-- ═══════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Haseeb-Shahid/Muhammad-Haseeb-Shahid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Haseeb-Shahid/Muhammad-Haseeb-Shahid/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Muhammad-Haseeb-Shahid/Muhammad-Haseeb-Shahid/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
