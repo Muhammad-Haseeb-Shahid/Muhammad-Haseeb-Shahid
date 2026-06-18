@@ -136,7 +136,7 @@
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/Muhammad-Haseeb-Shahid)
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/Muhammad-Haseeb-Shahid/Metal_Slug)
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +153,7 @@
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/Muhammad-Haseeb-Shahid)
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/Muhammad-Haseeb-Shahid/TumblePop)
 
 </td>
 </tr>
