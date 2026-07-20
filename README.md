@@ -1,6 +1,7 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn" width="100%"/>
 <picture> <source media="(prefers-color-scheme: dark)" srcset="haseeb-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="haseeb-light.svg"> <img src="haseeb-dark.svg" alt="Muhammad Haseeb Shahid | Cyber Terminal" width="100%"> </picture>
+
+
 <!-- ═══════════════════════════════════ -->
 <!--           HERO SECTION             -->
 <!-- ═══════════════════════════════════ -->
