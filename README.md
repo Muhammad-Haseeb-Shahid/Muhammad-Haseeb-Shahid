@@ -38,11 +38,11 @@
 |:---|:---|
 | 🎓 **University** | FAST NUCES, Islamabad |
 | 📍 **Location** | Islamabad, Pakistan |
-| 🔭 **Currently Building** | Game projects using C++ |
-| 🌱 **Learning** | OOP & App Development |
-| 💡 **Interests** | Game Development · Frontend · Problem Solving |
-| 🎯 **Goal** | Software Engineering Internship |
-| 💬 **Ask me about** | C · C++ · HTML · CSS · OOP |
+| 🔭 **Currently Building** | Android Apps using Flutter | IoT | Apps using JAVA |
+| 🌱 **Learning** | App Development & Embedded Systems |
+| 💡 **Interests** | IoT · App Development · Embedded Systems |
+| 🎯 **Goal** | IoT Engineer/Software Engineering Intership |
+| 💬 **Ask me about** | JAVA · Embedded Systems · C++ · DSA · OOP |
 
 </div>
 
@@ -176,11 +176,11 @@
 
 | Category | Details |
 |:---:|:---|
-| 🏗️ **Building** | C++ Game Projects |
-| 📚 **Learning** | Object Oriented Programming |
-| 🔍 **Exploring** | App & Game Development |
-| 🎯 **Goal** | Software Engineering Internship |
-| 💬 **Ask me** | C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; OOP |
+| 🏗️ **Building** | Android Apps using Flutter | IoT | Apps using JAVA |
+| 📚 **Learning** | JAVA, DSA in C++, FPGA using Verilog |
+| 🔍 **Exploring** | Embedded Systems & App Development |
+| 🎯 **Goal** |  IoT Engineer/Software Engineering Intership |
+| 💬 **Ask me** | Embedded Systems &nbsp;·&nbsp; C++ &nbsp;·&nbsp; DSA &nbsp;·&nbsp; JAVA &nbsp;·&nbsp; OOP |
 
 </div>
 
